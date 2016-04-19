@@ -1,0 +1,6 @@
+it\progess\model\App.class
+it\progess\model\PrintDocument.class
+it\progess\model\PrintFoot.class
+it\progess\model\PrintHead.class
+it\progess\model\ModelUtils.class
+it\progess\model\PrintRow.class
